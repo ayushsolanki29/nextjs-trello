@@ -19,7 +19,18 @@ This application offers a variety of features Like Create Board,cards and Lists 
 - and much more...
 
 ### Sample of this application
- <img src="https://raw.githubusercontent.com/ayushsolanki29/nextjs-trello/main/screenshot/1 (1).png" alt="sample"/>
- 
-
+ <img src="https://raw.githubusercontent.com/ayushsolanki29/nextjs-trello/main/screenshot/1 (2).png" alt="sample"/>
+ <img src="https://raw.githubusercontent.com/ayushsolanki29/nextjs-trello/main/screenshot/1 (3).png" alt="sample"/>
+ <img src="https://raw.githubusercontent.com/ayushsolanki29/nextjs-trello/main/screenshot/1 (4).png" alt="sample"/>
+ <img src="https://raw.githubusercontent.com/ayushsolanki29/nextjs-trello/main/screenshot/1 (5).png" alt="sample"/>
+ <img src="https://raw.githubusercontent.com/ayushsolanki29/nextjs-trello/main/screenshot/1 (6).png" alt="sample"/>
+ <img src="https://raw.githubusercontent.com/ayushsolanki29/nextjs-trello/main/screenshot/1 (7).png" alt="sample"/>
+ <img src="https://raw.githubusercontent.com/ayushsolanki29/nextjs-trello/main/screenshot/1 (8).png" alt="sample"/>
+ <img src="https://raw.githubusercontent.com/ayushsolanki29/nextjs-trello/main/screenshot/1 (9).png" alt="sample"/>
+ <img src="https://raw.githubusercontent.com/ayushsolanki29/nextjs-trello/main/screenshot/1 (10).png" alt="sample"/>
+ <img src="https://raw.githubusercontent.com/ayushsolanki29/nextjs-trello/main/screenshot/1 (11).png" alt="sample"/>
+ <img src="https://raw.githubusercontent.com/ayushsolanki29/nextjs-trello/main/screenshot/1 (12).png" alt="sample"/>
+ <img src="https://raw.githubusercontent.com/ayushsolanki29/nextjs-trello/main/screenshot/1 (13).png" alt="sample"/>
+ <img src="https://raw.githubusercontent.com/ayushsolanki29/nextjs-trello/main/screenshot/1 (14).png" alt="sample"/>
+ <img src="https://raw.githubusercontent.com/ayushsolanki29/nextjs-trello/main/screenshot/1 (15).png" alt="sample"/>
 
