@@ -19,5 +19,7 @@ This application offers a variety of features Like Create Board,cards and Lists 
 - and much more...
 
 ### Sample of this application
+ <img src="https://raw.githubusercontent.com/ayushsolanki29/nextjs-trello/main/screenshot/1 (1).png" alt="sample"/>
+ 
 
 
